@@ -1,0 +1,5 @@
+1) Registration
+2) Relogining
+3) Changing the password
+4) Menu items
+5) and etc
