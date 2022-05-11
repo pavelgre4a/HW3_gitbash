@@ -1,0 +1,25 @@
+[Galaxy J5] - [Change PIN code] - The old and new pin codes do not work after changing on the account.
+
+Steps
+1. Open app.
+2. Login to the application.
+3. In the settings, tap on change pin code.
+4.Enter the old pin code "9999".
+5.Enter the new pin code "1234".
+6. Exiting the application.
+7. Opening the application.
+8. Enter the new pin code "1234".
+9. Enter the old pin code "9999".
+
+SEVERITY - Critical
+Priority - High
+
+EXPECTED RESULT
+After changing a new PIN code on the account, it should be applied, and the user will be able to log in using it.
+
+ACTUAL RESULT
+The old and new pin codes do not work after changing on the account.
+
+DEVICE MAKE AND MODEL - Galaxy J5
+
+ATTACHMENTS - issue.mp4
